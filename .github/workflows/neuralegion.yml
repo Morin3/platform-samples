@@ -37,7 +37,7 @@
 # Inputs
 #
 # `name`
-#
+# 
 # **Required**. Scan name.
 #
 # _Example:_ `name: GitHub scan ${{ github.sha }}`
